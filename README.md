@@ -1,3 +1,3 @@
 # codes
-Atividades práticas da discuplina de linguagens de programação
+Atividades práticas da disciplina de linguagens de programação
 # Questionamentos
